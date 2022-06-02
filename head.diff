@@ -1,0 +1,7 @@
+485,486c485,487
+< 				<?php include("/usr/local/www/logo.svg"); ?>
+< 				<span style="color:white;font-size:.5em;text-transform:uppercase;letter-spacing:1px;">Community Edition</span>
+---
+>                                 <img src="/wlogo.png">
+> 				<!-- <?php include("/usr/local/www/logo.svg"); ?> -->
+> 				<br><span align="center" style="color:RGBA(255,0,0,1);font-size:.6em;text-transform:uppercase;letter-spacing:1px;">pfSense Woelke Edition</span>

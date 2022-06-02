@@ -1,0 +1,10 @@
+132c132,133
+< 								<?php include("/usr/local/www/logo.svg"); ?>
+---
+> 								<!-- <?php include("/usr/local/www/logo.svg"); ?> -->
+> 								<img src="wlogo.png">
+308c309,310
+< 								<?php include("/usr/local/www/logo.svg"); ?>
+---
+> 								<!-- <?php include("/usr/local/www/logo.svg"); ?> -->
+> 								<img src="wlogo.png">
